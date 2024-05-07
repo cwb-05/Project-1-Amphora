@@ -5,6 +5,13 @@
     box-sizing: border-box;
 }
 
+/* General */
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
 /* Header */
 header {
     width: 100%;
@@ -15,6 +22,8 @@ header {
 main {
     width: 100%;
     background-color: lightgreen;
+    /* Let main element expand to push down footer */
+    flex: 1 0 auto;
 }
 
 /* Footer */
