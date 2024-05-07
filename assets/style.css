@@ -42,6 +42,26 @@ main {
     flex: 1 0 auto;
 }
 
+/* Sources */
+#sources {
+    width: 100%;
+    background-color: rgba(228, 221, 221, 0.4);
+    padding: 10px 5px;
+}
+
+#sources>h2 {
+    font-size: 160%;
+}
+
+#sources>h3 {
+    padding-left: 5px;
+}
+
+.source-list-item {
+    padding: 5px;
+}
+
+/* Feedback */
 #feedback-form {
     margin: 20px auto;
     background-color: rgba(60, 60, 60, 0.6);
