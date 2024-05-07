@@ -12,10 +12,17 @@ body {
     min-height: 100vh;
 }
 
+nav>a:hover {
+    color: goldenrod;
+}
+
 /* Header */
 header {
     width: 100%;
-    background-color: aqua;
+    background-color: rgb(182, 62, 7);
+    text-align: center;
+    padding: 10px;
+    border-bottom: 1px solid goldenrod;
 }
 
 /* Navbar */
@@ -24,7 +31,8 @@ header {
     display: flex;
     justify-content: space-evenly;
     align-items: baseline;
-    background-color: blueviolet;
+    background-color: rgb(182, 62, 7);
+    padding: 5px;
 }
 
 /* Main Content */
@@ -48,14 +56,15 @@ main {
 
 #feedback > h2 {
     text-align: center;
-    padding-top: 5px;
+    padding-top: 10px;
     font-size: 160%;
 }
 
 /* Footer */
 footer {
     width: 100%;
-    background-color: orange;
+    color: black;
+    background-color: rgb(182, 62, 7);
     font-size: 160%;
     text-align: center;
 }
@@ -66,4 +75,8 @@ footer {
     justify-content: space-evenly;
     list-style: none;
     padding: 10px 0;
+}
+
+footer>h2 {
+    padding: 10px 5px;
 }
