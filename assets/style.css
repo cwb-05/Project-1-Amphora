@@ -1,0 +1,24 @@
+/* Wildcard selector to override default settings */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* Header */
+header {
+    width: 100%;
+    background-color: aqua;
+}
+
+/* Main Content */
+main {
+    width: 100%;
+    background-color: lightgreen;
+}
+
+/* Footer */
+footer {
+    width: 100%;
+    background-color: orange;
+}
