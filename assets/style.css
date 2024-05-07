@@ -34,12 +34,8 @@ main {
     flex: 1 0 auto;
 }
 
-#feedback {
-    position: relative;
-}
-
 #feedback-form {
-    margin: 20px 32px;
+    margin: 20px auto;
     background-color: rgba(60, 60, 60, 0.6);
     padding: 20px;
     width: 255px;
