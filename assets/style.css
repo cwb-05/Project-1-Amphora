@@ -49,10 +49,21 @@ main {
 #feedback > h2 {
     text-align: center;
     padding-top: 5px;
+    font-size: 160%;
 }
 
 /* Footer */
 footer {
     width: 100%;
     background-color: orange;
+    font-size: 160%;
+    text-align: center;
+}
+
+#social-media {
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    padding: 10px 0;
 }
