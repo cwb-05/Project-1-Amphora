@@ -24,14 +24,30 @@ header {
     display: flex;
     justify-content: space-evenly;
     align-items: baseline;
+    background-color: blueviolet;
 }
 
 /* Main Content */
 main {
     width: 100%;
-    background-color: lightgreen;
     /* Let main element expand to push down footer */
     flex: 1 0 auto;
+}
+
+#feedback {
+    position: relative;
+}
+
+#feedback-form {
+    margin: 20px 32px;
+    background-color: rgba(60, 60, 60, 0.6);
+    padding: 20px;
+    width: 255px;
+    height: 350px;
+}
+
+.text-entry {
+    margin: 10px 5px 10px 5px;
 }
 
 /* Footer */
