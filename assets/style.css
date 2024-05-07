@@ -12,10 +12,6 @@ body {
     min-height: 100vh;
 }
 
-nav>a:hover {
-    color: goldenrod;
-}
-
 /* Header */
 header {
     width: 100%;
@@ -33,6 +29,10 @@ header {
     align-items: baseline;
     background-color: rgb(182, 62, 7);
     padding: 5px;
+}
+
+nav>a:hover {
+    color: goldenrod;
 }
 
 /* Main Content */
