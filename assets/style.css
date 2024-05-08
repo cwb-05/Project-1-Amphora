@@ -31,6 +31,11 @@ header {
     padding: 5px;
 }
 
+nav>a {
+    text-decoration: none;
+    color: black;
+}
+
 nav>a:hover {
     color: goldenrod;
 }
