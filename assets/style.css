@@ -41,11 +41,30 @@ main {
     /* Let main element expand to push down footer */
     flex: 1 0 auto;
 }
+/* Amphora */
+
+#amphora {
+    background-color: rgba(228, 221, 221, 0.6);
+    padding: 10px;
+}
+
+#achilles {
+    margin: 10px;
+}
+
+.full-screen-width {
+    width: 100%;
+    height: auto;
+}
+
+#amphora > h2 {
+    font-size: 160%;
+}
 
 /* Sources */
 #sources {
     width: 100%;
-    background-color: rgba(228, 221, 221, 0.4);
+    background-color: rgba(228, 221, 221, 0.6);
     padding: 10px 5px;
 }
 
