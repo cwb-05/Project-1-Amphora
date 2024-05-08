@@ -54,11 +54,16 @@ main {
 
 .full-screen-width {
     width: 100%;
-    height: auto;
 }
 
-#amphora > h2 {
+#amphora h2 {
     font-size: 160%;
+    padding: 3%;
+}
+
+#amphora p {
+    margin: 10px;
+    padding: 2%;
 }
 
 /* Sources */
@@ -118,4 +123,16 @@ footer {
 
 footer>h2 {
     padding: 10px 5px;
+}
+
+/* Media query: for tablets and larger screens (768px and larger) */
+@media screen and (min-width: 768px) {
+    /* Make text appear next to images on larger screens */
+    #amphora-content {
+        display: flex;
+    }
+
+    #amphora-content div {
+        width: 50%;
+    }
 }
