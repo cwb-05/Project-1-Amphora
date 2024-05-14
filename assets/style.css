@@ -130,6 +130,11 @@ main {
     font-size: 160%;
 }
 
+#feedback-box {
+    height: 152px;
+    width: 190px;
+}
+
 /* Footer */
 footer {
     width: 100%;
