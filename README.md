@@ -1,18 +1,33 @@
-<h1>The Exekias Amphora</h2>
-<p>The Exikias Amphora website is all about the amphora made by the potter and painter Exikias in the 6th century BC, during the Archaic Period of ancient Greece. More specifically this is the amphora depicting Achilles and Penthesilea, as well as Dionysos and Oinopion.</p>
+# The Exekias Amphora
+The Exikias Amphora website is all about the amphora made by the potter and painter Exikias in the 6th century BC, during the Archaic Period of ancient Greece. More specifically this is the amphora depicting Achilles and Penthesilea, as well as Dionysos and Oinopion.
 
-<p>This website is aimed at induviduals who are interested in finding out about ancient artefacts. It provides clear and concise information and presents the sources it was gathered from to allow for more research.</p>
+This website is aimed at induviduals who are interested in finding out about ancient artefacts. It provides clear and concise information and presents the sources it was gathered from to allow for more research. Also there is a Feedback section where users can post their criticisms and ideas for the website, as well as a contact section in the footer where all the contact possibilities are listed.
 
+<img src="assets/images/Resposiveness.png" alt="The Exikias Amphora Website on different screens">
 
-<h2>Credits</h2>
-<h3>Code</h3>
+## Features
+<ul>
+<li><strong>The Header</strong>
+    <ul>
+    <li>The title clearly states the name of the object that the website is about.</li>
+    <li>The font looks similar to ancient writings and contasts well against the background.</li>
+    </ul>
+    <br>
+<img src="assets/images/Header.png" alt="The header of the page">
+
+</li>
+</ul>
+
+## Credits
+### Code
 <ul>
     <li>Wildcard selector, pushing footer down, from CI-Love Running Project</li>
     <li>Image formatting from Example project.</li>
     <li>JS for icons in footer from Fontawesome</li>
     <li>Placeholder text "Lorem Ipsum" from https://www.lipsum.com/feed/html</li>
 </ul>
-<h3>Content</h3>
+
+### Content
 <ul>
     <li>Images downloaded from <a href="https://www.britishmuseum.org/collection/object/G_1836-0224-127" target="_blank" rel="noopener">https://www.britishmuseum.org/collection/object/G_1836-0224-127</a>. Copyright: ©
                     The Trustees of the British Museum. Licensed under: <a
