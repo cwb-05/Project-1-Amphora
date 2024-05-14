@@ -76,13 +76,15 @@ main {
 #amphora h2,
 #mythology h2 {
     font-size: 160%;
-    padding: 3%;
+    padding: 5%;
 }
 
 #amphora p,
 #mythology p {
     margin: 10px;
     padding: 2%;
+    line-height: 2;
+    font-size: 140%;
 }
 
 /* Mythology */
@@ -156,6 +158,12 @@ footer>h2 {
     #mythology-content {
         display: flex;
     }
+
+    #amphora p,
+    #mythology p {
+        line-height: 1;
+        font-size: 100%;
+    } 
 
     #amphora-content div,
     #mythology-content div {
