@@ -82,6 +82,14 @@ This website is aimed at induviduals who are interested in finding out about anc
 
 </ul>
 
+## Testing
+<ul>
+    <li>I confirmed the header, navigation-bar, amphora section, mythology section, sources section, feedback section and contact section were all readable and easily understandable.</li>
+    <li>I have confirmed that the form works, all fields are required before the feedback-form can be submitted and the submit button functions properly.</li>
+    <li>I verified that the project is responsive and presentable on all standard screen sizes using the devtools device toolbar.</li>
+    <li>I have confirmed the page works in multiple browsers.</li>
+</ul>
+
 ## Content
 ### Code
 <ul>
