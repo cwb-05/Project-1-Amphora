@@ -13,9 +13,32 @@ This website is aimed at induviduals who are interested in finding out about anc
     <li>The font looks similar to ancient writings and contasts well against the background.</li>
     </ul>
     <br>
+</li>
+
 <img src="assets/images/Header.png" alt="The header of the page">
 
+<li><strong>Navigation</strong>
+    <ul>
+    <li>The Navigation bar has the same color as the header which simulates the color of the first image and contrasts with the text.</li>
+    <li>Four evenly spaced words that adjust to the size of the screen, clicking on them sends you to: The Amphora, The Mythology, Sources and Feedback sections respectively.</li>
+    <li>When hovered over by a cursor, an underline is dislayed under the words to clarify where the user is about to click.</li>
+    </ul>
+    <br>
 </li>
+
+<img src="assets/images/navigation.png" alt="The navigation bar">
+
+<li><strong>The Amphora section</strong>
+    <ul>
+    <li>The Amphora section provides information about the amphora itself, it's creator and it's background.</li>
+    <li>This section gives the user the most direct information about the amphora itself, quickly and cleanly presenting the it to the user.</li>
+    </ul>
+    <br>
+</li>
+
+<img src="assets/images/Amphora.png" alt="The section about the amphora">
+
+
 </ul>
 
 ## Credits
