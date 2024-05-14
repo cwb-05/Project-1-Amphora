@@ -26,7 +26,7 @@ header {
     background-color: #f38b43;
     text-align: center;
     padding: 10px;
-    border-bottom: 1px solid goldenrod;
+    border-bottom: 1px solid #2f0f0f;
 }
 
 /* Navbar */
@@ -115,7 +115,7 @@ main {
     background-color: rgba(60, 60, 60, 0.6);
     padding: 20px;
     width: 255px;
-    height: 350px;
+    height: 360px;
 }
 
 .text-entry {
