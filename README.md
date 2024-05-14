@@ -1,3 +1,9 @@
+<h1>The Exekias Amphora</h2>
+<p>The Exikias Amphora website is all about the amphora made by the potter and painter Exikias in the 6th century BC, during the Archaic Period of ancient Greece. More specifically this is the amphora depicting Achilles and Penthesilea, as well as Dionysos and Oinopion.</p>
+
+<p>This website is aimed at induviduals who are interested in finding out about ancient artefacts. It provides clear and concise information and presents the sources it was gathered from to allow for more research.</p>
+
+
 <h2>Credits</h2>
 <h3>Code</h3>
 <ul>
@@ -24,5 +30,3 @@
                         rel="noopener">https://www.history.com/topics/ancient-greece/ancient-greece</a> 
     </li>
 </ul>
-
-<h2>First Deployment</h2>
