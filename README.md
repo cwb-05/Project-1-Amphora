@@ -90,6 +90,16 @@ This website is aimed at induviduals who are interested in finding out about anc
     <li>I have confirmed the page works in multiple browsers.</li>
 </ul>
 
+### Bugs
+#### Fixed Bugs
+<ul>
+    <li>When first deployed, I noticed a flicker on the right side of the page when set for the smallest screen. I noticed the images had a margin of 10px on every side, additional to the section. I removed them from the class identifier that was desingned to creat this margin and the issue was resolved.</li>
+    <li>During Testing I saw the text area in the feedback-form was automatically set larger by another browser, causing the submit button to be pushed out of the div. I then set the text area to a specific starting size and the issue was resolved.</li>
+</ul>
+
+### Unresolved Bugs
+There are no unresolved Bugs.
+
 ## Content
 ### Code
 <ul>
