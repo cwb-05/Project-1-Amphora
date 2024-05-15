@@ -107,13 +107,38 @@ There are no unresolved Bugs.
             <li>No errors were passed through the official W3C validator.</li>
         </ul>
     </li>
+    <li>CSS
+        <ul>
+            <li>No errors were passed through the official (Jigsaw) validator.</li>
+        </ul>
+    </li>
+    <li>Accessibility
+        <ul>
+            <li>I confirmed the fonts and colors were easy to read by running it through lighthouse in dev tools.</li>
+        </ul>
+    </li>
 </ul>
+
+<img src="assets/images/project 1 lighthouse.png" alt="lighthouse results">
+
+## Deployment
+<ul>
+    <li>This site was deployed by GitHub pages. These are the steps to deploy:
+        <ul>
+            <li>In the GitHub repository, navigate to the Settings tap</li>
+            <li>Under the pages tab in the new menu, select the Main Branch</li>
+            <li>Once the Main Branch has been selected, a link to the live page will be provided</li>
+        </ul>
+    </li>
+</ul>
+
+The live link can be found here - <a href="https://cwb-05.github.io/Project-1-Amphora/" target="_blank" rel="noopener">The Exekias Amphora</a>
 
 ## Content
 ### Code
 <ul>
     <li>Wildcard selector, pushing footer down, from CI-Love Running Project</li>
-    <li>Image formatting from Example project.</li>
+    <li>Image formatting from Example project</li>
     <li>JS for icons in footer from Fontawesome</li>
     <li>Placeholder text "Lorem Ipsum" from https://www.lipsum.com/feed/html</li>
 </ul>
