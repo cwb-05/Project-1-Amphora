@@ -97,8 +97,17 @@ This website is aimed at induviduals who are interested in finding out about anc
     <li>During Testing I saw the text area in the feedback-form was automatically set larger by another browser, causing the submit button to be pushed out of the div. I then set the text area to a specific starting size and the issue was resolved.</li>
 </ul>
 
-### Unresolved Bugs
+#### Unresolved Bugs
 There are no unresolved Bugs.
+
+### Validator Testing
+<ul>
+    <li>HTML
+        <ul>
+            <li>No errors were passed through the official W3C validator.</li>
+        </ul>
+    </li>
+</ul>
 
 ## Content
 ### Code
