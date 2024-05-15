@@ -134,7 +134,7 @@ There are no unresolved Bugs.
 
 The live link can be found here - <a href="https://cwb-05.github.io/Project-1-Amphora/" target="_blank" rel="noopener">The Exekias Amphora</a>
 
-## Content
+## Credit
 ### Code
 <ul>
     <li>Wildcard selector, pushing footer down, from CI-Love Running Project</li>
