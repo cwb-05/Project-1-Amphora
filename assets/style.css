@@ -55,6 +55,7 @@ nav>a:hover {
 /* Main Content */
 main {
     width: 100%;
+    overflow-wrap: break-word;
     /* Let main element expand to push down footer */
     flex: 1 0 auto;
 }
@@ -142,6 +143,7 @@ footer {
     background-color: #f38b43;
     font-size: 160%;
     text-align: center;
+    overflow-wrap: break-word;
 }
 
 #social-media {
@@ -173,5 +175,14 @@ footer>h2 {
     #amphora-content div,
     #mythology-content div {
         width: 50%;
+    }
+}
+
+/* Media query: for 4k and larger screens (2560px and larger) */
+@media screen and (min-width: 2560px) {
+    /* shrinking width of content on the largest screens */
+    main {
+        width: 80%;
+        margin: 0 auto;
     }
 }

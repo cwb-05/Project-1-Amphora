@@ -1,9 +1,9 @@
 # The Exekias Amphora
-The Exikias Amphora website is all about the amphora made by the potter and painter Exikias in the 6th century BC, during the Archaic Period of ancient Greece. More specifically this is the amphora depicting Achilles and Penthesilea, as well as Dionysos and Oinopion.
+The Exekias Amphora website is all about the amphora made by the potter and painter Exekias in the 6th century BC, during the Archaic Period of ancient Greece. More specifically this is the amphora depicting Achilles and Penthesilea, as well as Dionysos and Oinopion.
 
-This website is aimed at induviduals who are interested in finding out about ancient artefacts. It provides clear and concise information and presents the sources it was gathered from to allow for more research. Also there is a Feedback section where users can post their criticisms and ideas for the website, as well as a contact section in the footer where all the contact possibilities are listed.
+This website is aimed at individuals who are interested in finding out about ancient artefacts. It provides clear and concise information and presents the sources it was gathered from to allow for more research. Also there is a Feedback section where users can post their criticisms and ideas for the website, as well as a contact section in the footer where all the contact possibilities are listed.
 
-<img src="assets/images/Resposiveness.png" alt="The Exikias Amphora Website on different screens">
+<img src="assets/images/Resposiveness.png" alt="The Exekias Amphora Website on different screens">
 
 ## Features
 <ul>
@@ -31,7 +31,7 @@ This website is aimed at induviduals who are interested in finding out about anc
     <ul>
     <li>The Amphora section provides information about the amphora itself, it's creator and it's background.</li>
     <li>This section gives the user the most direct information about the amphora itself, quickly and cleanly presenting it to the user.</li>
-    <li>This section has a light-gray background, which while still having good contrast with a black text-color, sets it apart from the sourounding sections.</li>
+    <li>This section has a light-gray background, which while still having good contrast with a black text-color, sets it apart from the surounding sections.</li>
     </ul>
 </li>
 
@@ -59,7 +59,7 @@ This website is aimed at induviduals who are interested in finding out about anc
 
 <li><strong>The Feedback section</strong>
     <ul>
-    <li>The Feedback section allows users to post suggetions for bettering the Website.</li>
+    <li>The Feedback section allows users to post suggestions for bettering the Website.</li>
     <li>It allows the user to post their First Name, Last Name and Feedback and saves the information.</li>
     <li>All fields must be filled before the form is submitted.</li>
     <li>The form is beneficial in that it allows users to weigh in on the website's design and content.</li>
@@ -93,7 +93,7 @@ This website is aimed at induviduals who are interested in finding out about anc
 ### Bugs
 #### Fixed Bugs
 <ul>
-    <li>When first deployed, I noticed a flicker on the right side of the page when set for the smallest screen. I noticed the images had a margin of 10px on every side, additional to the section. I removed them from the class identifier that was desingned to creat this margin and the issue was resolved.</li>
+    <li>When first deployed, I noticed a flicker on the right side of the page when set for the smallest screen. I noticed the images had a margin of 10px on every side, additional to the section. I removed them from the class identifier that was designed to create this margin and the issue was resolved.</li>
     <li>During Testing I saw the text area in the feedback-form was automatically set larger by another browser, causing the submit button to be pushed out of the div. I then set the text area to a specific starting size and the issue was resolved.</li>
 </ul>
 
