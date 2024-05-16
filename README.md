@@ -3,7 +3,7 @@ The Exekias Amphora website is all about the amphora made by the potter and pain
 
 This website is aimed at individuals who are interested in finding out about ancient artefacts. It provides clear and concise information and presents the sources it was gathered from to allow for more research. Also there is a Feedback section where users can post their criticisms and ideas for the website, as well as a contact section in the footer where all the contact possibilities are listed.
 
-<img src="assets/images/Resposiveness.png" alt="The Exekias Amphora Website on different screens">
+![The Exekias Amphora website on different devices](Resposiveness.png)
 
 ## Features
 <ul>
@@ -14,7 +14,7 @@ This website is aimed at individuals who are interested in finding out about anc
     </ul>
 </li>
 
-<img src="assets/images/Header.png" alt="The header of the page"><br>
+![The page header](Header.png)<br>
 
 <li><strong>Navigation</strong>
     <ul>
@@ -25,7 +25,7 @@ This website is aimed at individuals who are interested in finding out about anc
     </ul>
 </li>
 
-<img src="assets/images/navigation.png" alt="The navigation bar"><br>
+![The navigation bar](navigation.png)<br>
 
 <li><strong>The Amphora section</strong>
     <ul>
@@ -35,7 +35,7 @@ This website is aimed at individuals who are interested in finding out about anc
     </ul>
 </li>
 
-<img src="assets/images/Amphora.png" alt="The section about the amphora"><br>
+![The Amphora section](Amphora.png)<br>
 
 <li><strong>The Mythology section</strong>
     <ul>
@@ -45,7 +45,7 @@ This website is aimed at individuals who are interested in finding out about anc
     <br>
 </li>
 
-<img src="assets/images/mythology.png" alt="The section about the mythology"><br>
+![The Mythology section](mythology.png)<br>
 
 <li><strong>The Sources section</strong>
     <ul>
@@ -55,7 +55,7 @@ This website is aimed at individuals who are interested in finding out about anc
     <br>
 </li>
 
-<img src="assets/images/Sources.png" alt="The sources section"><br>
+![The Sources section](Sources.png)<br>
 
 <li><strong>The Feedback section</strong>
     <ul>
@@ -67,7 +67,7 @@ This website is aimed at individuals who are interested in finding out about anc
     <br>
 </li>
 
-<img src="assets/images/feedback.png" alt="The Feedback section">
+![The feedback section](feedback.png)<br>
 
 <li><strong>The Contact section</strong>
     <ul>
@@ -78,7 +78,7 @@ This website is aimed at individuals who are interested in finding out about anc
     <br>
 </li>
 
-<img src="assets/images/Footer.png" alt="The contact section">
+![The Contact section][Footer.png]
 
 </ul>
 
@@ -119,7 +119,7 @@ There are no unresolved Bugs.
     </li>
 </ul>
 
-<img src="assets/images/project 1 lighthouse.png" alt="lighthouse results">
+![The Lighthouse Results](<project 1 lighthouse.png>)
 
 ## Deployment
 <ul>
@@ -162,3 +162,5 @@ The live link can be found here - <a href="https://cwb-05.github.io/Project-1-Am
                         rel="noopener">https://www.history.com/topics/ancient-greece/ancient-greece</a> 
     </li>
 </ul>
+
+[Footer.png]: Footer.png
