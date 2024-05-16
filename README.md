@@ -141,6 +141,7 @@ The live link can be found here - <a href="https://cwb-05.github.io/Project-1-Am
     <li>Image formatting from Example project</li>
     <li>JS for icons in footer from Fontawesome</li>
     <li>Placeholder text "Lorem Ipsum" from https://www.lipsum.com/feed/html</li>
+    <li>"overflow-wrap: break-word;" from https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-wrap </li>
 </ul>
 
 ### Media
