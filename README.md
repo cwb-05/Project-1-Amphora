@@ -3,7 +3,7 @@ The Exekias Amphora website is all about the amphora made by the potter and pain
 
 This website is aimed at individuals who are interested in finding out about ancient artefacts. It provides clear and concise information and presents the sources it was gathered from to allow for more research. Also there is a Feedback section where users can post their criticisms and ideas for the website, as well as a contact section in the footer where all the contact possibilities are listed.
 
-![The Exekias Amphora website on different devices](Resposiveness.png)
+![The Exekias Amphora website on different devices](documentation/Resposiveness.png)
 
 ## Features
 <ul>
@@ -14,7 +14,7 @@ This website is aimed at individuals who are interested in finding out about anc
     </ul>
 </li>
 
-![The page header](Header.png)<br>
+![The page header](documentation/Header.png)<br>
 
 <li><strong>Navigation</strong>
     <ul>
@@ -25,7 +25,7 @@ This website is aimed at individuals who are interested in finding out about anc
     </ul>
 </li>
 
-![The navigation bar](navigation.png)<br>
+![The navigation bar](documentation/navigation.png)<br>
 
 <li><strong>The Amphora section</strong>
     <ul>
@@ -35,7 +35,7 @@ This website is aimed at individuals who are interested in finding out about anc
     </ul>
 </li>
 
-![The Amphora section](Amphora.png)<br>
+![The Amphora section](documentation/Amphora.png)<br>
 
 <li><strong>The Mythology section</strong>
     <ul>
@@ -45,7 +45,7 @@ This website is aimed at individuals who are interested in finding out about anc
     <br>
 </li>
 
-![The Mythology section](mythology.png)<br>
+![The Mythology section](documentation/mythology.png)<br>
 
 <li><strong>The Sources section</strong>
     <ul>
@@ -55,7 +55,7 @@ This website is aimed at individuals who are interested in finding out about anc
     <br>
 </li>
 
-![The Sources section](Sources.png)<br>
+![The Sources section](documentation/Sources.png)<br>
 
 <li><strong>The Feedback section</strong>
     <ul>
@@ -67,7 +67,7 @@ This website is aimed at individuals who are interested in finding out about anc
     <br>
 </li>
 
-![The feedback section](feedback.png)<br>
+![The feedback section](documentation/feedback.png)<br>
 
 <li><strong>The Contact section</strong>
     <ul>
@@ -78,7 +78,7 @@ This website is aimed at individuals who are interested in finding out about anc
     <br>
 </li>
 
-![The Contact section][Footer.png]
+![The Contact section](documentation/Footer.png)
 
 </ul>
 
@@ -119,7 +119,7 @@ There are no unresolved Bugs.
     </li>
 </ul>
 
-![The Lighthouse Results](<project 1 lighthouse.png>)
+![The Lighthouse Results](documentation/project%201%20lighthouse.png)
 
 ## Deployment
 <ul>
